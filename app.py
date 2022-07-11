@@ -34,7 +34,9 @@ app.config['SESSION_TYPE'] = 'filesystem'
 TITLE         = "Image To Text Converter"
 FRAME_TITLE   = "Image To Text Converter"
 PURPOSE_TITLE = "Convert text within an image into PDF"
-GITHUB_LINK   = "https://github.com/Reshmacaai101/image-to-text-extractor.git"
+GITHUB_LINK   = "https://github.com/Reshmacaai101/Text.git"
+
+
 
 
 # For uploading images
